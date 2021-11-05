@@ -4,7 +4,7 @@
 #
 Name     : R-corpcor
 Version  : 1.6.10
-Release  : 37
+Release  : 38
 URL      : https://cran.r-project.org/src/contrib/corpcor_1.6.10.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/corpcor_1.6.10.tar.gz
 Summary  : Efficient Estimation of Covariance and (Partial) Correlation
